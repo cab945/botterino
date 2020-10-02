@@ -21,16 +21,15 @@ pg = reddit.subreddit('picturegame')
 
 clarification = """ CLARIFICATION on coordinate format:
 
-I want the coordinates in decimal format as google maps gives them.
+I want coordinates in either of the two formats given by google maps.
 
-Here is an image showing which format I want [in the red box]:
-https://i.imgur.com/FVb3PuN.png
+[Here](https://i.imgur.com/xGomrVp.png) is an example, either the top or the bottom format is acceptable.
 
+The coordinates can appear anywhere in your commment, but they need to be in one of those two formats.
 
-Google Earth will give coordinates in a slightly differnt format, which I will NOT accept.
+Please not that if you are using google earth, your coordinates will be given in a slightly different format
 
-The coordinates can appear anywhere in your guess, but must be in that format. If it contains
-a degree symbol or a cardinal direction, it will not be counted correct. Thank you.
+which will not be counted correct.
 """
 
 donotreply = {
